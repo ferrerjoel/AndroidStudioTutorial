@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modul8</string>
+    <string name="text_button">Pulsa aquí</string>
+    <string name="edit_message">Introduce un mensaje</string>
+    <string name="button_send">Envia</string>
+</resources>
