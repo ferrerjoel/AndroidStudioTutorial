@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">モジュール 8</string>
+    <string name="text_button">" ここを押してください"</string>
+    <string name="edit_message">" メッセージを入力してください"</string>
+    <string name="button_send">送信</string>
+</resources>

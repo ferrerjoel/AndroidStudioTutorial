@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 8-nji modul"</string>
+    <string name="text_button">Şu ýere basyň</string>
+    <string name="edit_message">" Habar giriziň"</string>
+    <string name="button_send">Iber</string>
+</resources>

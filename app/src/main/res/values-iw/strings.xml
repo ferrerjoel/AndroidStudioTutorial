@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מודול 8</string>
+    <string name="text_button">לחץ כאן</string>
+    <string name="edit_message">הזן הודעה</string>
+    <string name="button_send">לִשְׁלוֹחַ</string>
+</resources>

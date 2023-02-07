@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Modulis 8"</string>
+    <string name="text_button">Spauskite čia</string>
+    <string name="edit_message">Įveskite žinutę</string>
+    <string name="button_send">" Siųsti"</string>
+</resources>

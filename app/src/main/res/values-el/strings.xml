@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ενότητα 8</string>
+    <string name="text_button">πατήστε εδώ</string>
+    <string name="edit_message">" Εισαγάγετε ένα μήνυμα"</string>
+    <string name="button_send">" Στείλετε"</string>
+</resources>

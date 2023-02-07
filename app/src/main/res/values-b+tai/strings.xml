@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">โมดูล 8</string>
+    <string name="text_button">" กดที่นี่"</string>
+    <string name="edit_message">ป้อนข้อความ</string>
+    <string name="button_send">ส่ง</string>
+</resources>

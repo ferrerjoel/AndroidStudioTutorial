@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" මොඩියුලය 8"</string>
+    <string name="text_button">මෙතන ඔබන්න</string>
+    <string name="edit_message">පණිවිඩයක් ඇතුළු කරන්න</string>
+    <string name="button_send">යවන්න</string>
+</resources>

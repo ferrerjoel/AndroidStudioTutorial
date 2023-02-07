@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Modul8</string>
+    <string name="app_name">Module 8</string>
     <string name="text_button">Press here</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
